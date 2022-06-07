@@ -1,0 +1,37 @@
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\appsettings.Development.json
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\appsettings.json
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Hospital Management.staticwebassets.runtime.json
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Hospital Management.exe
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Hospital Management.deps.json
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Hospital Management.runtimeconfig.json
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Hospital Management.dll
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Hospital Management.pdb
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Humanizer.dll
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Npgsql.dll
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\Egeneration Practice\Hospital Management\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.csproj.AssemblyReference.cache
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.GeneratedMSBuildEditorConfig.editorconfig
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.AssemblyInfoInputs.cache
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.AssemblyInfo.cs
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.csproj.CoreCompileInputs.cache
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.MvcApplicationPartsAssemblyInfo.cache
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.RazorAssemblyInfo.cache
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.RazorAssemblyInfo.cs
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\staticwebassets.build.json
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\staticwebassets.development.json
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\scopedcss\bundle\Hospital Management.styles.css
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\scopedcss\projectbundle\Hospital Management.bundle.scp.css
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.csproj.CopyComplete
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.dll
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\refint\Hospital Management.dll
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.pdb
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\Hospital Management.genruntimeconfig.cache
+F:\Egeneration Practice\Hospital Management\obj\Debug\net6.0\ref\Hospital Management.dll
